@@ -1,0 +1,61 @@
+body{
+    margin:5px 15%;
+    padding: 50px 300px;
+    text-align: justify;
+    background:#ebeaef;
+    
+ }
+
+ table {
+
+    border-spacing: 20px;
+}
+
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:25px;
+    font-size:20px; color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#90ccff;
+    border:2px solid #0c348a;
+            
+}
+   
+
+.text {
+    
+    float: right;
+    margin-top: 2px;
+    margin-left: 20%
+    text-align: justify;
+   }
+
+
+.definition {
+    font-weight: bold;
+
+}
+section figure {
+    background:#90ccff; 
+    text-indent:20px;
+}
+
+#task {
+    color:red;
+    /*text-align:justify;*/
+    font-weight: bold;
+}
+
+p {
+    text-indent:20px;
+}
+.kot{
+    width:300px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 100px; 
+    margin-right: 150px; 
+    margin-left: 250px;
+}
