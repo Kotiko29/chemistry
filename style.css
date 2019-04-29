@@ -59,3 +59,8 @@ p {
     margin-right: 150px; 
     margin-left: 250px;
 }
+
+section ol {
+  width: auto;
+  height: auto;
+}
